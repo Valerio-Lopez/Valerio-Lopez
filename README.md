@@ -1,4 +1,4 @@
- Me llamo Valerio López Peña , desarrollador de Aplicaciones Web Inactivo
+ Me llamo Valerio López Peña , desarrollador de Aplicaciones Web Inactivo,
  y este es git particular donde subo los pequeños proyectos que desarrollo para mi aprendizaje y/o uso personal o profesional
 
 <!---
